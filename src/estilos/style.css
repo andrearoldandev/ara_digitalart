@@ -1,3 +1,12 @@
 body {
     font-family: 'Montserrat', sans-serif;
 }
+
+h1 {
+    font-size: 100px !important;
+}
+
+.imagen-logo {
+    width: 200px;
+    
+}
