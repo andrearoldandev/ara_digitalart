@@ -20,6 +20,10 @@ h1 {
     color: blueviolet !important;
 }
 
+.active {
+    color: rgb(170, 131, 206) !important;
+}
+
 .silueta {
     width: 550px !important;
     height: 600px !important;
