@@ -28,3 +28,8 @@ h1 {
     width: 550px !important;
     height: 600px !important;
 }
+
+.btn {
+    background-color: blueviolet !important;
+    border-color: blueviolet !important;
+}
